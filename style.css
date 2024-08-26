@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+img {
+  width: 100%;
+  border: solid 5px wheat;
+}
+.poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: wheat;
+}
+.icons {
+  margin-top: 20px;
+  font-size: 2rem;
+  color: white;
+}
+i {
+  color: white;
+  transition: all 0.7s ease;
+}
+i:hover {
+  transform: scale(1.3);
+}
